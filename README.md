@@ -15,3 +15,6 @@ https://cjjouanne.github.io/OpenCV-Python/
 
 #### opencv-python-course-computer-vision
 ##  https://github.com/computervisioneng/opencv-python-course-computer-vision.git
+
+#### Basic-Augmented-reality-course-opencv
+#### https://github.com/Asadullah-Dal17/Basic-Augmented-reality-course-opencv.git
