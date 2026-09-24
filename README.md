@@ -11,3 +11,7 @@ https://www.geeksforgeeks.org/python/python-opencv-cv2-imshow-method/
 #### OpenCV-Python
 
 https://cjjouanne.github.io/OpenCV-Python/
+
+
+#### opencv-python-course-computer-vision
+##  https://github.com/computervisioneng/opencv-python-course-computer-vision.git
