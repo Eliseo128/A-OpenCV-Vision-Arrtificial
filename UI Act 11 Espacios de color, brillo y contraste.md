@@ -13,11 +13,11 @@ Para un algoritmo, una imagen es una matriz de números enteros (de 0 a 255). Pa
 * **Escala de Grises (Grayscale):** Reduce la matriz a **1 solo canal**. El valor 0 representa negro puro y 255 blanco puro. Se calcula ponderando la percepción del ojo humano:
 
 $$\text{Gris} = 0.299 \cdot R + 0.587 \cdot G + 0.114 \cdot B$$
-<img width="380" height="263" alt="impacto" src="https://raw.githubusercontent.com/Eliseo128/A-OpenCV-Vision-Arrtificial/refs/heads/main/licensed-image.jpg" />
+
 
 
 ---
-
+<img width="380" height="263" alt="impacto" src="https://raw.githubusercontent.com/Eliseo128/A-OpenCV-Vision-Arrtificial/refs/heads/main/licensed-image.jpg" />
 ### B. Brillo y Contraste
 
 Matemáticamente, ajustar brillo y contraste equivale a aplicar una función lineal a cada píxel $g(x, y)$:
