@@ -33,6 +33,7 @@ $$g(x, y) = \alpha \cdot f(x, y) + \beta$$
 ---
 
 ## 2. Ejemplos de Código (Python + OpenCV + Matplotlib)
+### link https://github.com/Eliseo128/A-OpenCV-Vision-Arrtificial/blob/7bc323348c22cb375772eb01d85e77c81257cf77/act%2011%20ejemplosimagen.md
 
 ### Ejemplo 1: Conversión entre BGR, RGB y Escala de Grises
 
