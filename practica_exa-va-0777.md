@@ -1,6 +1,6 @@
 # Práctica de Visión Artificial: Transformación de imágenes con Python y OpenCV
 
-![Gato de ejemplo](img-original-0777/img-gato-0777.jpg)
+![Gato de ejemplo]([img-original-0777/img-gato-0777.jpg](https://raw.githubusercontent.com/Eliseo128/A-OpenCV-Vision-Arrtificial/refs/heads/main/img-gato-0777.jpg))
 
 **Nivel:** Tercer semestre de preparatoria\
 **Carpeta del proyecto:** `exa-va-0777`\
