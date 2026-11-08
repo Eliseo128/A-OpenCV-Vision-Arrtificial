@@ -7,12 +7,12 @@ Estrategia: aprendizaje basado en ejemplos.
 desde la terminal de vs code crear el entorno virtual .env-va-0777,
 activar el entorno virtual, 
 instalación de las librerías correspondientes de acuerdo para el ejemplo totalmente funcional.
-seguir procedimiento paso a paso no se te olvide crear la carpeta de trabajo u3-p3-rec-img-0777,
+seguir procedimiento paso a paso no se te olvide crear la carpeta de trabajo u3-p4-conjunto-datos-0777,
 crear el archivo de requerimientos, 
 crear la estructura de carpetas y archivos 
-(en carpeta “img-original-0777” crear el archivo “img_1.jpg", "img_2jpg”, 
+(en carpeta “img-original-0777” crear el archivos necesarios ej. “img_1.jpg", "img_2jpg”, 
 en la carpeta “codigopy-0777”
-crear el archivo “p3-rec-img-0777.py”,
+crear el archivo “p4-conjunto-datos-va-0777.py”,
 en la carpeta “resultados-img-0777” los archivos se generan en automático). 
   proporciona 1 ejemplo guiados de cero a principiante totalmente funcional y atractivo, 
   no se te olvide la estructura de carpetas y archivos del proyecto, 
